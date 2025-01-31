@@ -1,0 +1,13 @@
+name: shinyapp
+title: shinyapp
+username: jrong
+account: jrong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13835036
+bundleId: 9725826
+url: https://jrong.shinyapps.io/shinyapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: df_24hrs_cleaned.fst|df_24hrs_reduced.fst|Nhoods
